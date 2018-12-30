@@ -1,7 +1,7 @@
 # Tensorflow 1.12 Cuda 10.0 Python 2.7, 3.6, 3.7
 Extract rars first
 ```
-$ unrar x tf1.12-cu10.0.part1.rar
+$ bash extract.sh
 ```
 
 ## Install in conda env

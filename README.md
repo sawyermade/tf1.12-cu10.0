@@ -18,7 +18,7 @@ $ sudo -H bash install_py3.6.sh #Python3.6
 $ sudo -H bash install_py3.7.sh #Python3.7
 ```
 
-## Install system python user
+## Install system python --user
 ```
 $ bash install_py2.7-user.sh #Python2.7
 $ bash install_py3.6-user.sh #Python3.6
